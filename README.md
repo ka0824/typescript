@@ -13,6 +13,8 @@
 
 ### [기존 리액트 타입스크립트로 변환하기](https://github.com/ka0824/typescript/blob/main/feat/react_to_typescript.md)
 
+### [jest로 ts 파일 실행하기](https://github.com/ka0824/typescript/blob/main/feat/jest_in_typescript.md)
+
 <br />
 
 
