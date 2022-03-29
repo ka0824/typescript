@@ -3,6 +3,7 @@
 > ### 이론 공부
 ### [타입 지정하기](https://github.com/ka0824/typescript/blob/main/theory/assign_type.md)
 ### [enum](https://github.com/ka0824/typescript/blob/main/theory/enum.md)
+### [as const](https://github.com/ka0824/typescript/blob/main/theory/as_const.md)
 
 
 <br />
